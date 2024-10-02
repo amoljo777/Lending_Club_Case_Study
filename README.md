@@ -1,3 +1,5 @@
+This is a case study on Lending Club data analysis, done as part of an EDA assignment for  PG Programme in Machine Learning & AI - July 2024 
+
 Lending-Club-Case-Study
 ===========================
 
@@ -72,3 +74,6 @@ Present the overall approach of the analysis in a presentation
 You need to submit one Ipython notebook which clearly explains the thought process behind your analysis (either in comments of markdown text), code and relevant plots.
 
 Important Note: Please make sure to rename your Python notebook "Group_Facilitator_Name.ipynb".
+
+CONTRIBUTOR
+Amol Joshi
